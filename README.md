@@ -12,10 +12,14 @@
 
 `cmd: tree / f` 
 
+```java
 `─framework`
 `│  └─util`
+
 `│          BaseTableModule.java`
+
 `│          BillNo.java`
+
 `│          ImagePanel.java`
 `│          Item.java`
 `│          JdbcUtil.java`
@@ -26,7 +30,7 @@
 `├─main`
 `│      Entrance.java`
 `│`
-`└─module`
+`└─module
     `├─dao`
     `│  │  BaseDao.java`
     `│  │`
@@ -73,7 +77,8 @@
             `StockInputManagerJPanel.java`
             `StockOutputManagerJPanel.java`
             `UserManagerJPanel.java`
-            `WarehouseManagerJPanel.java`
+            `WarehouseManagerJPanel.java
+```
 
 ## 三、项目演示Demo
 
